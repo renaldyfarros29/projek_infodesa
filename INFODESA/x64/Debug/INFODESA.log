@@ -1,0 +1,16 @@
+﻿  antreanWarga.cpp
+  auth.cpp
+  dummy.cpp
+  main.cpp
+  perangkat_desa.cpp
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\perangkat_desa.cpp(143,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\perangkat_desa.cpp(153,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\perangkat_desa.cpp(270,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\perangkat_desa.cpp(652,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\perangkat_desa.cpp(724,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  warga.cpp
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\warga.cpp(62,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\INFODESA\warga.cpp(410,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  LINK : D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\x64\Debug\INFODESA.exe not found or not built by the last incremental link; performing full link
+  INFODESA.vcxproj -> D:\projek\projek_infodesa-main (1)\projek_infodesa-main\INFODESA_FP-master\INFODESA_FP-master\x64\Debug\INFODESA.exe
